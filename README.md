@@ -20,7 +20,7 @@ To write a program to find the LU Decomposition of a matrix.
  Print the result obtained.
  
 ## Program:
-(i) To find the L and U matrix
+(i) To find the L and U matrix.
 ```
 /*
 Program to find the L and U matrix.
